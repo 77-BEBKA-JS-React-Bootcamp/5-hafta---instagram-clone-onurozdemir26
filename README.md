@@ -21,4 +21,4 @@ npm start
 
 ## Contact to Author
 If you have any trouble or suggestions, please let me know.
-[Github of Author](https://github.com/bdedeogluu)
+[Github of Author](https://github.com/onurozdemir26)
